@@ -1,0 +1,11 @@
+# macOS desktop services
+.DS_Store
+
+# Temporary files
+*~
+
+# VS Code files
+.vscode/**
+
+# Vim swap files
+*.swp
